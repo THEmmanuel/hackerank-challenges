@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/making-candies/problem
+
 const balance = (m, w, candies, p) => {
 	if (candies >= p) {
 		const half = parseInt(parseInt(candies / p, 10) / 2, 10);

@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/crush/problem
 'use strict';
 
 const fs = require('fs');
